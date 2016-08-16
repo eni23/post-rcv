@@ -1,0 +1,4 @@
+---
+port: 3008
+incoming-directory: /home/eni/tmp/rcv
+public-url: http://debug.e23.ch:3008

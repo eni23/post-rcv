@@ -1,0 +1,21 @@
+{
+  "name": "post-rcv",
+  "version": "0.0.1",
+  "description": "node mattermost chat bot",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.adfinis-sygroup.ch:Cyrillvw/node-mattermost-bot.git"
+  },
+  "author": "eni",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "fs-extra": "^0.30.0",
+    "js-yaml": "^3.6.1",
+    "moment": "^2.14.1",
+    "querystring": "^0.2.0"
+  }
+}
